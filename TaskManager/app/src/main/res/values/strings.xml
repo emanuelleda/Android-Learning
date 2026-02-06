@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Task Manager</string>
+    <string name="completed_text">All tasks completed</string>
+    <string name="nice_work_text">Nice work!</string>
+    <string name="image_description">Imagem de indicação de conclusão de tarefa.</string>
+</resources>
